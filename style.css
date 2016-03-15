@@ -24,10 +24,11 @@ ul {
     overflow: hidden;
     background-color: #262730;
     height: 50px;
+    justify-content: center;
 }
 
 li {
-    justify-content: center;
+
 }
 
 li a {
